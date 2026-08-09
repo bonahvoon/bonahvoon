@@ -1,1 +1,1 @@
-8.0|https:xxxxx|"Các tính năng mới là abc ..."
+1.0|https:xxxxx|"Các tính năng mới là abc ..."
