@@ -1,1 +1,1 @@
-8.0 , https://googledrive.com/xxxxx
+8.0|https:xxxxx|"Các tính năng mới là abc ..."
