@@ -1,1 +1,2 @@
 1.0|https:xxxxx|"Các tính năng mới là abc ..."
+1.1|https://drive.google.com/file/d/1ST2hinHL1u5DPOOxAfH4NqcHGyLWouUs/view?usp=sharing|"Fix Giao diện và một vài lỗi khác"
